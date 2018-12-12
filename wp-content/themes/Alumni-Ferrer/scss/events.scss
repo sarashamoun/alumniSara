@@ -1,0 +1,30 @@
+@import'colors.scss';
+
+.ct-events{
+	background-color: #c7ecee;
+	
+		.arts-appliques{
+			border: solid $art 10px;
+		}
+
+		.paramedical{
+			border: solid $para 10px;
+		}
+
+		.economique-cooremans{
+			border: solid $eco 10px;
+		}
+
+		.technique{
+			border: solid $tech 10px;
+		}
+
+		.pedagogique-bulls{
+			border: solid $peda 10px;
+		}
+
+		.social-cooremans{
+			border: solid $soci 10px;
+		}
+}/*Fin .ct-events*/
+

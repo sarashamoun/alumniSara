@@ -1,0 +1,93 @@
+/* CSS Document */
+
+.wp-post-image {
+  width: 100%;
+  height: 150px;
+}
+
+
+.ct-news {
+
+  h2 {
+    display: inline;
+  }
+}
+
+
+.article {
+  padding: 5px;
+}
+
+article {
+
+  border: solid 1px gray;
+  
+}
+
+article .news-content {
+  padding: 5px;
+  min-height: 300px;
+}
+
+
+
+.article a {
+  color: black;
+}
+
+.article h3 {
+margin-bottom: 0;
+}
+
+.article .date {
+color:gray;
+font-size: 0.8rem;
+}
+
+.hashtags {
+font-size: 0.8rem;
+}
+
+.ct-loop {
+  background-color: #a29bfe;
+}
+
+
+
+.ct-events {
+  background-color: #ffeaa7;
+}
+
+
+.ct-gallery {
+  background-color: #81ecec;
+}
+
+
+
+h2 {
+  margin: 0 10px;
+}
+
+
+
+.ct-news a {
+  &.arts-appliques {
+    color: #76B729 !important;
+  }
+  &.economique-cooremans {
+    color: #F49800 !important;
+  }
+  &.paramedical {
+    color: #D21D10 !important;
+  }
+  &.pedagogique-bulls {
+    color: #1B97CE !important;
+  }
+  &.social-cooremans {
+    color: #F0E51A !important;
+  }
+  &.technique {
+    color: #5D0749 !important;
+  }
+}

@@ -1,0 +1,19 @@
+/* Scss Document */
+.ct-events {
+  background-color: #c7ecee; }
+  .ct-events .arts-appliques {
+    border: solid #76B729 10px; }
+  .ct-events .paramedical {
+    border: solid #D21D10 10px; }
+  .ct-events .economique-cooremans {
+    border: solid #F49800 10px; }
+  .ct-events .technique {
+    border: solid #5D0749 10px; }
+  .ct-events .pedagogique-bulls {
+    border: solid #1B97CE 10px; }
+  .ct-events .social-cooremans {
+    border: solid #F0E51A 10px; }
+
+/*Fin .ct-events*/
+
+/*# sourceMappingURL=events.css.map */

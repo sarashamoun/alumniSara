@@ -1,0 +1,57 @@
+@import "colors";
+
+.ct-news{
+	background-color: #fab1a0;
+}
+
+.ct-news h2{
+	display: inline;
+}
+
+.article{
+	background-color: #74b9ff;
+	
+}
+
+.article a{
+	color: black;
+}
+
+.ct-loop{
+	background-color: #a29bfe;
+}
+
+.ct-events{
+	background-color: #ffeaa7;
+}
+
+.ct-gallery{
+	background-color: #81ecec;
+}
+
+h2{
+	margin: 0 10px;
+}
+
+.ct-news{
+
+.arts-appliques{ 
+	background-color: $art !important;
+}
+.economique-cooremans{
+	background-color: $eco !important;
+}
+.paramedical{
+	background-color: $para !important;
+}
+.pedagogique-bulls{
+	background-color: $peda !important;
+}
+.social-cooremans{
+	background-color: $soci !important;
+}
+.technique{
+	background-color: $tech !important;
+}
+
+}

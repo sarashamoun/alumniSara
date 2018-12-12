@@ -1,0 +1,97 @@
+/* CSS Document */
+/* line 3, ../scss/news.scss */
+.wp-post-image {
+  width: 100%;
+  height: 200px;
+}
+
+/* line 9, ../scss/news.scss */
+.ct-news {
+  border-bottom: solid 1px gray;
+}
+/* line 13, ../scss/news.scss */
+.ct-news h2 {
+  margin-bottom: 20px;
+  /* border-bottom: solid 1px gray;*/
+}
+/* line 19, ../scss/news.scss */
+.ct-news .news {
+  margin-top: 50px;
+}
+
+/* line 32, ../scss/news.scss */
+.article {
+  /* padding: 5px;*/
+}
+
+/* line 42, ../scss/news.scss */
+article .news-content {
+  padding: 5px;
+  min-height: 260px;
+}
+
+/* line 49, ../scss/news.scss */
+.article a {
+  color: black;
+}
+
+/* line 53, ../scss/news.scss */
+.article h3 {
+  margin-bottom: 0;
+}
+
+/* line 57, ../scss/news.scss */
+.article .date {
+  color: gray;
+  font-size: 0.8rem;
+}
+
+/* line 62, ../scss/news.scss */
+.hashtags {
+  font-size: 0.8rem;
+}
+
+/* line 66, ../scss/news.scss */
+.ct-loop {
+  background-color: #a29bfe;
+}
+
+/* line 72, ../scss/news.scss */
+.ct-events {
+  background-color: #ffeaa7;
+}
+
+/* line 77, ../scss/news.scss */
+.ct-gallery {
+  background-color: #81ecec;
+}
+
+/* line 83, ../scss/news.scss */
+h2 {
+  margin: 0 10px;
+}
+
+/* line 90, ../scss/news.scss */
+.ct-news a.arts-appliques {
+  color: #76B729 !important;
+}
+/* line 93, ../scss/news.scss */
+.ct-news a.economique-cooremans {
+  color: #F49800 !important;
+}
+/* line 96, ../scss/news.scss */
+.ct-news a.paramedical {
+  color: #D21D10 !important;
+}
+/* line 99, ../scss/news.scss */
+.ct-news a.pedagogique-bulls {
+  color: #1B97CE !important;
+}
+/* line 102, ../scss/news.scss */
+.ct-news a.social-cooremans {
+  color: #F0E51A !important;
+}
+/* line 105, ../scss/news.scss */
+.ct-news a.technique {
+  color: #5D0749 !important;
+}
